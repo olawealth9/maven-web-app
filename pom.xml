@@ -96,14 +96,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>olawealth</name>
-	      <url>http://18.234.36.137:8081/repository/firstproject-release/</url>
+	      <name>ola</name>
+	      <url>http://172.31.18.87:8081/repository/firstproject-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>olawealth</name>
-	      <url>http://18.234.36.137:8081/repository/firstproject-snapshot/</url>
+	      <name>ola</name>
+	      <url>http://172.31.18.87:8081/repository/firstproject-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
