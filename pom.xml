@@ -96,13 +96,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Acada Learning Releases Nexus Repository</name>
+	      <name>olawealth</name>
 	      <url>http://18.234.36.137:8081/repository/firstproject-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Acada Learning Snapshot Nexus Repository</name>
+	      <name>olawealth</name>
 	      <url>http://18.234.36.137:8081/repository/firstproject-snapshot/</url>
 	    </snapshotRepository>
 	    
