@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>olawealth</name>
-	      <url>http://18.234.36.137:8081/repository/rbc-release/</url>
+	      <url>http://54.172.31.247:8081/repository/rbc-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>olawealth</name>
-	      <url>http://18.234.36.137:8081/repository/rbc-snapshot/</url>
+	      <url>http://54.172.31.247:8081/repository/rbc-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
